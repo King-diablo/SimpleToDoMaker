@@ -1,0 +1,15 @@
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ToDoProgram.exe
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ToDoProgram.deps.json
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ToDoProgram.runtimeconfig.json
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ToDoProgram.dll
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ref\ToDoProgram.dll
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\bin\Debug\net6.0\ToDoProgram.pdb
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.csproj.AssemblyReference.cache
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.AssemblyInfoInputs.cache
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.AssemblyInfo.cs
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.csproj.CoreCompileInputs.cache
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.dll
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ref\ToDoProgram.dll
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.pdb
+C:\Users\uer\Documents\Projects\ToDoProgram\ToDoProgram\obj\Debug\net6.0\ToDoProgram.genruntimeconfig.cache
